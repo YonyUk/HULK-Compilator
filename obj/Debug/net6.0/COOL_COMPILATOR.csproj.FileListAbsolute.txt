@@ -1,0 +1,45 @@
+E:/Projects/C#/Compilation/COOL_COMPILATOR/bin/Debug/net6.0/COOL_COMPILATOR.exe
+E:/Projects/C#/Compilation/COOL_COMPILATOR/bin/Debug/net6.0/COOL_COMPILATOR.deps.json
+E:/Projects/C#/Compilation/COOL_COMPILATOR/bin/Debug/net6.0/COOL_COMPILATOR.runtimeconfig.json
+E:/Projects/C#/Compilation/COOL_COMPILATOR/bin/Debug/net6.0/COOL_COMPILATOR.dll
+E:/Projects/C#/Compilation/COOL_COMPILATOR/bin/Debug/net6.0/ref/COOL_COMPILATOR.dll
+E:/Projects/C#/Compilation/COOL_COMPILATOR/bin/Debug/net6.0/COOL_COMPILATOR.pdb
+E:/Projects/C#/Compilation/COOL_COMPILATOR/obj/Debug/net6.0/COOL_COMPILATOR.csproj.AssemblyReference.cache
+E:/Projects/C#/Compilation/COOL_COMPILATOR/obj/Debug/net6.0/COOL_COMPILATOR.GeneratedMSBuildEditorConfig.editorconfig
+E:/Projects/C#/Compilation/COOL_COMPILATOR/obj/Debug/net6.0/COOL_COMPILATOR.AssemblyInfoInputs.cache
+E:/Projects/C#/Compilation/COOL_COMPILATOR/obj/Debug/net6.0/COOL_COMPILATOR.AssemblyInfo.cs
+E:/Projects/C#/Compilation/COOL_COMPILATOR/obj/Debug/net6.0/COOL_COMPILATOR.csproj.CoreCompileInputs.cache
+E:/Projects/C#/Compilation/COOL_COMPILATOR/obj/Debug/net6.0/COOL_COMPILATOR.dll
+E:/Projects/C#/Compilation/COOL_COMPILATOR/obj/Debug/net6.0/ref/COOL_COMPILATOR.dll
+E:/Projects/C#/Compilation/COOL_COMPILATOR/obj/Debug/net6.0/COOL_COMPILATOR.pdb
+E:/Projects/C#/Compilation/COOL_COMPILATOR/obj/Debug/net6.0/COOL_COMPILATOR.genruntimeconfig.cache
+/media/yonyuk/Nuevo vol/Projects/C#/Compilation/COOL_COMPILATOR/obj/Debug/net6.0/COOL_COMPILATOR.csproj.AssemblyReference.cache
+/media/yonyuk/Nuevo vol/Projects/C#/Compilation/COOL_COMPILATOR/obj/Debug/net6.0/COOL_COMPILATOR.GeneratedMSBuildEditorConfig.editorconfig
+/media/yonyuk/Nuevo vol/Projects/C#/Compilation/COOL_COMPILATOR/obj/Debug/net6.0/COOL_COMPILATOR.AssemblyInfoInputs.cache
+/media/yonyuk/Nuevo vol/Projects/C#/Compilation/COOL_COMPILATOR/obj/Debug/net6.0/COOL_COMPILATOR.AssemblyInfo.cs
+/media/yonyuk/Nuevo vol/Projects/C#/Compilation/COOL_COMPILATOR/obj/Debug/net6.0/COOL_COMPILATOR.csproj.CoreCompileInputs.cache
+/media/yonyuk/Nuevo vol/Projects/C#/Compilation/COOL_COMPILATOR/obj/Debug/net6.0/COOL_COMPILATOR.dll
+/media/yonyuk/Nuevo vol/Projects/C#/Compilation/COOL_COMPILATOR/obj/Debug/net6.0/COOL_COMPILATOR.pdb
+/media/yonyuk/Nuevo vol/Projects/C#/Compilation/COOL_COMPILATOR/bin/Debug/net6.0/COOL_COMPILATOR
+/media/yonyuk/Nuevo vol/Projects/C#/Compilation/COOL_COMPILATOR/bin/Debug/net6.0/COOL_COMPILATOR.deps.json
+/media/yonyuk/Nuevo vol/Projects/C#/Compilation/COOL_COMPILATOR/bin/Debug/net6.0/COOL_COMPILATOR.runtimeconfig.json
+/media/yonyuk/Nuevo vol/Projects/C#/Compilation/COOL_COMPILATOR/bin/Debug/net6.0/COOL_COMPILATOR.dll
+/media/yonyuk/Nuevo vol/Projects/C#/Compilation/COOL_COMPILATOR/bin/Debug/net6.0/COOL_COMPILATOR.pdb
+/media/yonyuk/Nuevo vol/Projects/C#/Compilation/COOL_COMPILATOR/obj/Debug/net6.0/refint/COOL_COMPILATOR.dll
+/media/yonyuk/Nuevo vol/Projects/C#/Compilation/COOL_COMPILATOR/obj/Debug/net6.0/COOL_COMPILATOR.genruntimeconfig.cache
+/media/yonyuk/Nuevo vol/Projects/C#/Compilation/COOL_COMPILATOR/obj/Debug/net6.0/ref/COOL_COMPILATOR.dll
+/media/yonyuk/Nuevo vol1/Projects/C#/Compilation/COOL_COMPILATOR/obj/Debug/net6.0/COOL_COMPILATOR.csproj.AssemblyReference.cache
+/media/yonyuk/Nuevo vol1/Projects/C#/Compilation/COOL_COMPILATOR/obj/Debug/net6.0/COOL_COMPILATOR.GeneratedMSBuildEditorConfig.editorconfig
+/media/yonyuk/Nuevo vol1/Projects/C#/Compilation/COOL_COMPILATOR/obj/Debug/net6.0/COOL_COMPILATOR.AssemblyInfoInputs.cache
+/media/yonyuk/Nuevo vol1/Projects/C#/Compilation/COOL_COMPILATOR/obj/Debug/net6.0/COOL_COMPILATOR.AssemblyInfo.cs
+/media/yonyuk/Nuevo vol1/Projects/C#/Compilation/COOL_COMPILATOR/obj/Debug/net6.0/COOL_COMPILATOR.csproj.CoreCompileInputs.cache
+/media/yonyuk/Nuevo vol1/Projects/C#/Compilation/COOL_COMPILATOR/obj/Debug/net6.0/COOL_COMPILATOR.dll
+/media/yonyuk/Nuevo vol1/Projects/C#/Compilation/COOL_COMPILATOR/obj/Debug/net6.0/refint/COOL_COMPILATOR.dll
+/media/yonyuk/Nuevo vol1/Projects/C#/Compilation/COOL_COMPILATOR/obj/Debug/net6.0/COOL_COMPILATOR.pdb
+/media/yonyuk/Nuevo vol1/Projects/C#/Compilation/COOL_COMPILATOR/bin/Debug/net6.0/COOL_COMPILATOR
+/media/yonyuk/Nuevo vol1/Projects/C#/Compilation/COOL_COMPILATOR/bin/Debug/net6.0/COOL_COMPILATOR.deps.json
+/media/yonyuk/Nuevo vol1/Projects/C#/Compilation/COOL_COMPILATOR/bin/Debug/net6.0/COOL_COMPILATOR.runtimeconfig.json
+/media/yonyuk/Nuevo vol1/Projects/C#/Compilation/COOL_COMPILATOR/bin/Debug/net6.0/COOL_COMPILATOR.dll
+/media/yonyuk/Nuevo vol1/Projects/C#/Compilation/COOL_COMPILATOR/bin/Debug/net6.0/COOL_COMPILATOR.pdb
+/media/yonyuk/Nuevo vol1/Projects/C#/Compilation/COOL_COMPILATOR/obj/Debug/net6.0/COOL_COMPILATOR.genruntimeconfig.cache
+/media/yonyuk/Nuevo vol1/Projects/C#/Compilation/COOL_COMPILATOR/obj/Debug/net6.0/ref/COOL_COMPILATOR.dll
